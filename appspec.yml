@@ -15,7 +15,7 @@ version: 0.0
 os: linux
 files:
     - source: /
-      destination: /var/www/html
+      destination: /var/www/html/wordpress
 hooks:
     BeforeInstall:
      - location: scripts/installapache.sh
