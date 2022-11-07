@@ -30,6 +30,7 @@
             <h2>all are correct</h2>
             <h1>github link : https://github.com/wahidahmed/wp_test </h1>
             <p>this is a good platform</p>
+            <p>this is a rm</p>
 				<div class="row">
 					<div class="col-md-6 col-sm-12">
 						<div class="header-left">
