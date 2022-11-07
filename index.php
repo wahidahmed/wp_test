@@ -27,6 +27,7 @@
             <h2>wow</h2>
             <h2>nice</h2>
             <h2>agani</h2>
+            <h2>all are correct</h2>
 				<div class="row">
 					<div class="col-md-6 col-sm-12">
 						<div class="header-left">
