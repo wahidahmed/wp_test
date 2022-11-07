@@ -15,9 +15,9 @@ version: 0.0
 os: linux
 files:
     - source: /
-      destination: /var/www/html/wordpress/wahid
+      destination: /var/www/html/wordpress/wp-content/themes/test
 permissions:
-    - object: /var/www/html/wordpress/wahid
+    - object: /var/www/html/wordpress/wp-content/themes/test
       pattern: "**"
       owner: www-data
       group: www-data
