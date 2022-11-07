@@ -17,7 +17,7 @@ files:
     - source: /
       destination: /var/www/html/wordpress/wp-content/themes/test
 permissions:
-    - object: /var/www/html/wordpress/wp-content/themes/test
+    - object: /var/www/html/wordpress
       pattern: "**"
       owner: www-data
       group: www-data
