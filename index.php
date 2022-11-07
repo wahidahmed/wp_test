@@ -31,6 +31,7 @@
             <h1>github link : https://github.com/wahidahmed/wp_test </h1>
             <p>this is a good platform</p>
             <p>this is a rm</p>
+            <p>the AWS pipeline is done</p>
 				<div class="row">
 					<div class="col-md-6 col-sm-12">
 						<div class="header-left">
